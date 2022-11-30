@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Deployed A mobile responsive dAPP on Celo using Celo composser
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Asides the fact that this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), it is also a web3 project that explores the basic requirements to deploy dApp on Celo.
+
+## Adding Celo Testnet to your metamask wallet to test.
+
+This is a simple three step process that you can read up [here](https://developers.celo.org/3-simple-steps-to-connect-your-metamask-wallet-to-celo-732d4a139587).
 
 ## Available Scripts
 

@@ -8,7 +8,7 @@ const NumCounter = () => {
 	// deploy simple storage contract and paste deployed contract address here. This value is local ganache chain
 	// let provider = new ethers.providers.Web3Provider(window.ethereum, "goerli");
   
-  let contractAddress = '0xB9187f9a9EB3d0Db336832ff70E1fE1F2e1F439d';
+  let contractAddress = 'Metamask Celo Testnet wallet address';
 
 	const [errorMessage, setErrorMessage] = useState(null);
 	const [defaultAccount, setDefaultAccount] = useState(null);
